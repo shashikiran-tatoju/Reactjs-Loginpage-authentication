@@ -1,0 +1,26 @@
+[{
+         "id":1,
+         "name":"test1",
+         "age" : "11",
+         "gender":"male",
+         "email" : "test1@gmail.com",
+         "phoneNo" : "9415346313"
+       },
+       {
+         "id" : 2,
+         "name":"test2",
+         "age" : "12",
+         "gender":"male",
+         "email" : "test2@gmail.com",
+         "phoneNo" : "9415346314"
+       },
+       {
+         "id":3,
+         "name":"test3",
+         "age" : "13",
+         "gender":"male",
+         "email" : "test3@gmail.com",
+         "phoneNo" : "9415346315"
+       }]
+       
+  
